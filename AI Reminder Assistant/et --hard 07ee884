@@ -1,0 +1,63 @@
+[33mf4d3432[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m07ee884[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{1}: commit: Optimize logo rendering
+[33mf4d3432[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{2}: commit: Fix logo image quality
+[33me63d11f[m HEAD@{3}: pull --rebase (finish): returning to refs/heads/main
+[33me63d11f[m HEAD@{4}: pull --rebase (pick): Update branding to YAAD AI with logo
+[33me670275[m HEAD@{5}: pull --rebase (start): checkout e6702756d4352fec6773f5ebb8d2f1d8b02d5d3d
+[33mb7ffe3e[m HEAD@{6}: commit: Update branding to YAAD AI with logo
+[33mef7d6e7[m HEAD@{7}: commit: Add Yaad AI logo and remove v2 tag from reminders
+[33m3f0feb2[m HEAD@{8}: commit: Fix WhatsApp voice message authentication
+[33m2891fbb[m HEAD@{9}: commit: Adds live chat animation to See it in action section
+[33m14a8e24[m HEAD@{10}: commit: UI Polish: Match Pro pricing button and list styles to Free tier
+[33m736c28f[m HEAD@{11}: commit: Minor Tweaks in UI: Update pricing, free plan details, footer, and badge colors
+[33m14e7ebd[m HEAD@{12}: commit: Add Coming Soon Features section with 5 future capabilities (Smart Habits, Daily Planner, Document Memory, Calorie Tracking, Smart Suggestions)
+[33m5107894[m HEAD@{13}: commit: Add SEO content pages: FAQ, Blog, and How It Works with updated navigation
+[33m972aed9[m HEAD@{14}: commit: Remove all remaining translation JavaScript code (210 lines of Hindi dictionary and functions)
+[33m4ce1edd[m HEAD@{15}: commit: Remove language toggle buttons and CSS completely
+[33md808e86[m HEAD@{16}: commit: Revert language toggle feature - client requested removal
+[33m3742672[m HEAD@{17}: commit: Fix Google Translate script URL to use explicit HTTPS protocol
+[33mb70a0af[m HEAD@{18}: commit: Replace manual translation with Google Translate Widget for automatic multi-language support
+[33m2be4526[m HEAD@{19}: commit: Add English/Hindi language toggle with translation system and hero section support
+[33m9286949[m HEAD@{20}: commit: Add elephant emoji branding to logo, badge, and chat icon as memory symbol
+[33m7135b75[m HEAD@{21}: commit: Reorder features by priority: instant chat first, then voice, recurring, Hindi/Hinglish, history
+[33ma91a86b[m HEAD@{22}: commit: Add chat example UI section to demonstrate bot interaction and improve conversion
+[33md427d9a[m HEAD@{23}: commit: Add pricing section with free tier and Pro plan hints for future monetization
+[33m2a7b9cd[m HEAD@{24}: commit: Add trust signals: testimonials section, security badge, and footer policy links
+[33me6b67bc[m HEAD@{25}: commit: Update Telegram bot link to @Reminder_test_abi_bot
+[33mad2cdad[m HEAD@{26}: commit: Fix: Exempt Twilio webhook from rate limiting to prevent 401 errors
+[33mcf54920[m HEAD@{27}: commit: Added Twilio WhatsApp integration
+[33m8aa9951[m HEAD@{28}: commit (merge): Merged remote changes, resolved conflicts by keeping local versions
+[33mff37058[m HEAD@{29}: commit: Updates_new
+[33m8d817c4[m HEAD@{30}: commit: Optimize deployment: multi-stage Dockerfile, port fix, and tsconfig update
+[33ma95d5cb[m HEAD@{31}: commit: chore: optimize dockerignore to prevent build context bloat
+[33mca24879[m HEAD@{32}: commit: feat(ui): modernize admin dashboard with premium design
+[33mf3869f0[m HEAD@{33}: commit: fix: reminder scheduling ambiguity resolved, admin portal sort order and date format updated
+[33m7151c17[m HEAD@{34}: commit: Rewrite groq.provider.ts to remove hidden characters
+[33maba3b1f[m HEAD@{35}: commit: Fix syntax error in groq.provider.ts
+[33mbb671f7[m HEAD@{36}: commit: feat: add AI personality for friendly reminders
+[33md1191f8[m HEAD@{37}: commit: chore: add debug script for checking reminders
+[33mc152fb9[m HEAD@{38}: commit: fix: use message receipt time as reference for relative time parsing
+[33m2ac7ce4[m HEAD@{39}: commit: fix: upgrade groq model and add nlp logs
+[33m331dcba[m HEAD@{40}: commit: fix: add verbose scheduler logs
+[33m20afc4a[m HEAD@{41}: commit: fix: relax production check for railway
+[33m9fd6ec0[m HEAD@{42}: commit: feat: add admin clear reminders & restrict bot to production
+[33m2154548[m HEAD@{43}: commit: Downgrade uuid to v9 to fix ERR_REQUIRE_ESM
+[33m2e4febc[m HEAD@{44}: commit: Add Railway configuration
+[33m6e75e71[m[33m ([m[1;31mspace/main[m[33m)[m HEAD@{45}: commit: Downgrade to Node 18 for DNS stability
+[33me9a295f[m HEAD@{46}: commit: Force Telegraf to use IPv4 Agent
+[33m4d9b4b0[m HEAD@{47}: commit: Force IPv4 DNS resolution to fix ENOTFOUND errors
+[33m314e28e[m HEAD@{48}: commit: Fix rate limit proxy error and add bot launch retry
+[33m78fd8e6[m HEAD@{49}: commit: Add v2 signature to debug multiple instances
+[33m8cffab6[m HEAD@{50}: commit: Fix NLP date parsing and prompt overfitting
+[33m683dced[m HEAD@{51}: commit: fix: add tzdata for correct timezone and refine prompt to prevent hallucinations
+[33m3ba14aa[m HEAD@{52}: commit: fix: improve relative time parsing logic in prompt
+[33m5ea9130[m HEAD@{53}: commit: fix: set PORT to 7860 for Hugging Face Spaces
+[33m68bda91[m HEAD@{54}: commit: chore: add hugginface spaces config to README
+[33mdf16f1a[m HEAD@{55}: commit: refactor: optimize for Vercel serverless deployment
+[33m96a71cb[m HEAD@{56}: commit: chore: add Dockerfile for Hugging Face deployment
+[33m663d7f4[m HEAD@{57}: rebase (abort): returning to refs/heads/main
+[33m2e86150[m HEAD@{58}: pull --rebase origin main (start): checkout 2e86150f1842b89744c13953ba4679723b66421b
+[33m663d7f4[m HEAD@{59}: commit: feat: enhance admin filters, improve AI personality, and prep for Render deployment
+[33m5f34570[m HEAD@{60}: pull: Fast-forward
+[33ma0067d8[m HEAD@{61}: Branch: renamed refs/heads/main to refs/heads/main
+[33ma0067d8[m HEAD@{63}: commit (initial): Initial commit: Reminder Assistant MVP
