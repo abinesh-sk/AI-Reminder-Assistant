@@ -34,7 +34,7 @@ The project is designed as a SaaS MVP with support for multilingual conversation
 
 ## Architecture
 
-![YAAD AI Architecture](images/architecture.png)
+![YAAD AI Architecture](AI%20Reminder%20Assistant/images/architecture.png)
 
 ## Tech Stack
 
